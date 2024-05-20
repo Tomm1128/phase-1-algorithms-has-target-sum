@@ -12,6 +12,9 @@ function hasTargetSum(array, target) {
 
 /* 
   Write the Big O time complexity of your function here
+  O(n²)
+
+  I believe it is quadratic since my solution has to iterate through the array twice. 
 */
 
 /* 
