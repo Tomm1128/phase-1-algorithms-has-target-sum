@@ -30,7 +30,7 @@ function hasTargetSum(array, target) {
 
 /*
   Add written explanation of your solution here
-  
+   I knew I had to iterate through the array twice, grabbing one element and adding it to all the other elements to see if it matches the target and return true if it does. If it goes through both loops and does not return true, the function by default will return false. 
 */
 
 // You can run `node index.js` to view these console logs
