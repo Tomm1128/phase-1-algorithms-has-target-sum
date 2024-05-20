@@ -12,6 +12,13 @@ function hasTargetSum(array, target) {
   Write a function that takes in two arguments: [an array of numbers], a number
   Goal for the function is to see if any pair of numbers in the array add up to the target number. 
   Then returns true or false depending on if there is a pair of values that add up to the target.
+
+  function {
+    iterate through the array and grab the first element 
+    Then iterate through the array again and grab the next element
+    Add the two values together and see if they match the target
+    If they do, return true otherwise return false
+  }
 */
 
 /*
