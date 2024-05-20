@@ -1,5 +1,6 @@
 function hasTargetSum(array, target) {
   // Write your algorithm here
+  
 }
 
 /* 
@@ -8,6 +9,9 @@ function hasTargetSum(array, target) {
 
 /* 
   Add your pseudocode here
+  Write a function that takes in two arguments: [an array of numbers], a number
+  Goal for the function is to see if any pair of numbers in the array add up to the target number. 
+  Then returns true or false depending on if there is a pair of values that add up to the target.
 */
 
 /*
